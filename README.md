@@ -10,15 +10,13 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=glima-dev&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=glima-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/><br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glima-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=glima-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glima-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/><br/><br/><br/>
 
 
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
-<br/><br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
